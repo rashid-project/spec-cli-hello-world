@@ -1,1 +1,1 @@
-# spec-helloworld
+# Spec: CLI Hello World
